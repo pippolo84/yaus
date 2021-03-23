@@ -1,0 +1,5 @@
+storage.path: "."
+server.address: ":8080"
+server.timeout.write: 15s
+server.timeout.read: 15s
+server.timeout.idle: 60s
