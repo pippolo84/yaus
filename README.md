@@ -4,7 +4,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/Pippolo84/yaus.svg)](https://pkg.go.dev/github.com/Pippolo84/yaus)
 
 <div align="center">
-<img widht="1280" height="640" src="assets/logo.jpg">
+<img widht="640" height="320" src="assets/logo.jpg">
 </div>
 
 <br />
