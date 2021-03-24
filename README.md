@@ -1,5 +1,8 @@
 # yaus
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/pippolo84/yaus)](https://goreportcard.com/report/github.com/pippolo84/yaus)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Pippolo84/yaus.svg)](https://pkg.go.dev/github.com/Pippolo84/yaus)
+
 <div align="center">
 <img widht="1280" height="640" src="assets/logo.jpg">
 </div>
