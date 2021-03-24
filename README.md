@@ -1,5 +1,11 @@
 # yaus
 
+<div align="center">
+<img widht="1280" height="640" src="assets/logo.jpg">
+</div>
+
+<br />
+
 yaus (**Y**et **A**nother **U**RL **S**hortener) is a simple URL shortener used to demonstrate some handy patterns to develop Go services.
 
 It currently offers two endpoints:
